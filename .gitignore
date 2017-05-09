@@ -1,0 +1,8 @@
+.project
+.settings/
+/vendor
+.buildpath
+/cache
+/public/api
+/public/js/locales
+/bin/genModel.php
